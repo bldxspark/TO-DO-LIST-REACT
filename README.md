@@ -27,8 +27,11 @@ My TODO App is a lightweight yet powerful task management tool built with React 
 🧰 Tech Stack
 
 React (Vite) -	Frontend Framework
+
 Tailwind CSS -	Styling
+
 localStorage -	Data persistence in browser
+
 uuid -	Unique task identification
 
 
