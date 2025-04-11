@@ -35,6 +35,7 @@ localStorage -	Data persistence in browser
 uuid -	Unique task identification
 
 📸 Screenshots
+
 ![Screenshot 2025-04-11 170700](https://github.com/user-attachments/assets/1b3f2a95-87d8-4016-baba-cc513a22852b)
 
 ![Screenshot 2025-04-11 170613](https://github.com/user-attachments/assets/f572ee8e-8cde-41f4-8b69-43a7567078e5)
@@ -64,13 +65,21 @@ The app should now be running at http://localhost:5173.
 
 my-todo-app/
 │
+
 ├── public/               # Static files
+
 ├── src/
-│   ├── components/       # Reusable components (e.g., Navbar)
+
+│ ├── components/       # Reusable components (e.g., Navbar)
+
 │   ├── App.jsx           # Main App component
+
 │   ├── App.css           # Global styles
+
 │   └── main.jsx          # Entry point
+
 ├── package.json          # Dependencies and scripts
+
 └── README.md             # Project documentation
 
 🤝 Contributing
