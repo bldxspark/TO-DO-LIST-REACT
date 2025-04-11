@@ -99,11 +99,15 @@ Push to the branch (git push origin feature-branch)
 Open a pull request
 
 📃 License
+
 This project is open-source and available under the MIT License.
 
 🙋‍♂️ Author
 
 Durgesh Tiwari
+
 📍 Lucknow, India
+
 💼 Aspiring Full-Stack Web Developer
+
 🧠 Passionate about building cool, useful projects
