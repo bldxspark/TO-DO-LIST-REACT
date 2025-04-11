@@ -64,21 +64,13 @@ The app should now be running at http://localhost:5173.
 
 my-todo-app/
 │
-
 ├── public/               # Static files
-
 ├── src/
-
 │   ├── components/       # Reusable components (e.g., Navbar)
-
 │   ├── App.jsx           # Main App component
-
 │   ├── App.css           # Global styles
-
 │   └── main.jsx          # Entry point
-
 ├── package.json          # Dependencies and scripts
-
 └── README.md             # Project documentation
 
 🤝 Contributing
